@@ -21,3 +21,5 @@ Instruccions:
     Crea una ruta GET /api/events/:id que retorni les dades de l'esdeveniment corresponent a l'ID proporcionada com a paràmetre de ruta. Si el paràmetre no existeix retornarà tots els esdeveniments, si l'esdeveniment no existeix a la BBDD, retorna un missatge d'error adequat. De cada esdeveniment s'han de mostrar tots els camps menys el assistents, que només es mostrarà si s'envia un JWT vàlid.
 
 Cal complir correctament i completament totes les instruccions i endpoints per a que l'exercici sigui vàlid.
+
+Link: https://github.com/Harman2301/exerciciRecu
